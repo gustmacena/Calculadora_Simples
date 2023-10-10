@@ -2,10 +2,10 @@
 Calculadora Simples - Android Studio
 
 # Descrição do Projeto
-Nome do Projeto: Calculadora Simples Android Studio
-Autor: Gustavo Araujo da Costa Macena
-Turma: 4L - Noturno / Campus Guarulhos
-Universidade Cruzeiro do Sul
+Nome do Projeto: Calculadora Simples Android Studio;
+Autor: Gustavo Araujo da Costa Macena;
+Turma: 4L - Noturno / Campus Guarulhos;
+Universidade Cruzeiro do Sul;
 Objetivo: Desenvolver uma calculadora simples, contendo as 4 operações através do Android Studio 2023.
 
 # Visão Geral
@@ -46,7 +46,7 @@ O código foi desenvolvido de forma a lidar com expressões matemáticas complex
 Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) ou enviar pull requests com melhorias.
 
 # Contato
-Autor: Gustavo Araujo da Costa Macena
+Autor: Gustavo Araujo da Costa Macena;
 Email: gustavoaraujomacena@gmail.com
 
 
